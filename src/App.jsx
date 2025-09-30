@@ -7,6 +7,14 @@ function Profile() {
   );
 }
 
+function Einstein() {
+  return (
+    <img
+      src="https://i.imgur.com/3aXW2g6m.jpg"
+      alt="Albert Einstein"
+    />
+  );
+}
 export default function Gallery() {
   return (
     <section>
